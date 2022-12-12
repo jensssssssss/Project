@@ -1,0 +1,32 @@
+body{
+    background-color: tan
+}
+
+img {
+    width: 500px;
+}
+
+h1 {
+    color: black;
+    border: 2px dashed black;
+  }
+
+  p {
+    Color: brown;
+    border-style: double;
+  }
+
+  .tableauPlaceholder {
+   width: 100px;
+   
+  }
+
+  h2 {
+    text-decoration-line: underline;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h1 {
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+  }
